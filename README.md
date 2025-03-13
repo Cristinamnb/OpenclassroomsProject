@@ -1,1 +1,1 @@
-# OpenclassroomsProject
+# booki-starter-pack
